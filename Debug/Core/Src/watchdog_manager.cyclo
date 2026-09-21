@@ -1,0 +1,11 @@
+../Core/Src/watchdog_manager.c:52:26:watchdog_wait_for_prescaler_update	3
+../Core/Src/watchdog_manager.c:74:26:watchdog_wait_for_reload_update	3
+../Core/Src/watchdog_manager.c:96:26:watchdog_calculate_reload	4
+../Core/Src/watchdog_manager.c:149:19:watchdog_manager_init	7
+../Core/Src/watchdog_manager.c:294:19:watchdog_manager_refresh	2
+../Core/Src/watchdog_manager.c:311:19:watchdog_manager_update	3
+../Core/Src/watchdog_manager.c:357:19:watchdog_manager_health_check	6
+../Core/Src/watchdog_manager.c:410:10:watchdog_manager_get_timeout_ms	1
+../Core/Src/watchdog_manager.c:420:9:watchdog_manager_is_initialized	1
+../Core/Src/watchdog_manager.c:430:9:watchdog_manager_fault_active	1
+../Core/Src/watchdog_manager.c:440:6:watchdog_manager_clear_fault	1

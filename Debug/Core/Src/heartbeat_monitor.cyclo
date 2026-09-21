@@ -1,0 +1,8 @@
+../Core/Src/heartbeat_monitor.c:31:20:heartbeat_monitor_init	2
+../Core/Src/heartbeat_monitor.c:61:6:heartbeat_monitor_beat	2
+../Core/Src/heartbeat_monitor.c:82:6:heartbeat_monitor_tick	3
+../Core/Src/heartbeat_monitor.c:120:20:heartbeat_monitor_health_check	3
+../Core/Src/heartbeat_monitor.c:140:10:heartbeat_monitor_get_count	1
+../Core/Src/heartbeat_monitor.c:150:10:heartbeat_monitor_get_elapsed_ms	1
+../Core/Src/heartbeat_monitor.c:160:9:heartbeat_monitor_fault_active	1
+../Core/Src/heartbeat_monitor.c:170:6:heartbeat_monitor_clear_fault	1

@@ -1,0 +1,5 @@
+../Core/Src/reset_manager.c:27:24:reset_manager_init	7
+../Core/Src/reset_manager.c:83:16:reset_manager_get_reason	1
+../Core/Src/reset_manager.c:93:10:reset_manager_get_raw_flags	1
+../Core/Src/reset_manager.c:103:24:reset_manager_health_check	2
+../Core/Src/reset_manager.c:118:6:reset_manager_clear_flags	1

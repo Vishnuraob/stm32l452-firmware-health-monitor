@@ -1,0 +1,9 @@
+../Core/Src/adc_monitor.c:41:22:adc_monitor_init	24	static
+../Core/Src/adc_monitor.c:75:22:adc_monitor_update	24	static
+../Core/Src/adc_monitor.c:150:10:adc_monitor_get_vdda_mv	4	static
+../Core/Src/adc_monitor.c:160:9:adc_monitor_get_temperature_c	4	static
+../Core/Src/adc_monitor.c:170:10:adc_monitor_get_vbat_mv	4	static
+../Core/Src/adc_monitor.c:180:9:adc_monitor_vdda_is_healthy	4	static
+../Core/Src/adc_monitor.c:200:9:adc_monitor_temperature_is_healthy	4	static
+../Core/Src/adc_monitor.c:222:9:adc_monitor_vbat_is_healthy	4	static
+../Core/Src/adc_monitor.c:242:22:adc_monitor_health_check	4	static

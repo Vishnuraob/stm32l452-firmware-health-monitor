@@ -1,0 +1,6 @@
+../Core/Src/usart.c:34:15:uart_init	8	static
+../Core/Src/usart.c:204:15:uart_transmit_byte	16	static
+../Core/Src/usart.c:231:15:uart_receive_byte_nonblocking	16	static
+../Core/Src/usart.c:259:15:uart_transmit	24	static
+../Core/Src/usart.c:284:15:uart_receive_byte	16	static
+../Core/Src/usart.c:310:15:uart_health_check	4	static

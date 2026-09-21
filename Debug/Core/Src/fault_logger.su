@@ -1,0 +1,7 @@
+../Core/Src/fault_logger.c:20:23:fault_logger_init	16	static
+../Core/Src/fault_logger.c:44:23:fault_logger_log	24	static
+../Core/Src/fault_logger.c:92:23:fault_logger_get	24	static
+../Core/Src/fault_logger.c:146:23:fault_logger_get_latest	24	static
+../Core/Src/fault_logger.c:182:10:fault_logger_get_count	4	static
+../Core/Src/fault_logger.c:188:23:fault_logger_clear	16	static
+../Core/Src/fault_logger.c:215:23:fault_logger_health_check	4	static

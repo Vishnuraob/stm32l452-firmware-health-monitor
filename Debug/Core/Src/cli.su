@@ -1,0 +1,16 @@
+../Core/Src/cli.c:38:13:cli_transmit_string	16	static
+../Core/Src/cli.c:50:13:cli_print_status	16	static
+../Core/Src/cli.c:69:13:cli_command_status	80	static
+../Core/Src/cli.c:167:13:cli_command_help	8	static
+../Core/Src/cli.c:182:13:cli_command_uptime	104	static
+../Core/Src/cli.c:212:13:cli_command_memory	144	static
+../Core/Src/cli.c:291:13:cli_command_errors	112	static
+../Core/Src/cli.c:480:13:cli_command_reset_reason	80	static
+../Core/Src/cli.c:541:13:cli_command_selftest	16	static
+../Core/Src/cli.c:591:13:cli_command_get_log	128	static
+../Core/Src/cli.c:746:13:cli_command_clear_errors	16	static
+../Core/Src/cli.c:765:13:cli_process_command	8	static
+../Core/Src/cli.c:819:6:cli_init	8	static
+../Core/Src/cli.c:835:13:cli_command_version	8	static
+../Core/Src/cli.c:856:14:cli_receive_char	16	static
+../Core/Src/cli.c:947:6:cli_process	16	static

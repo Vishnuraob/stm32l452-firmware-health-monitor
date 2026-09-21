@@ -1,0 +1,5 @@
+../Core/Src/system_time.c:51:22:system_time_init	8	static
+../Core/Src/system_time.c:116:6:system_time_tick	4	static
+../Core/Src/system_time.c:124:10:system_time_get_ms	4	static
+../Core/Src/system_time.c:133:6:system_time_delay_ms	24	static
+../Core/Src/system_time.c:154:22:system_time_health_check	4	static

@@ -1,0 +1,9 @@
+../Core/Src/fault_manager.c:25:24:fault_manager_init	2
+../Core/Src/fault_manager.c:57:24:fault_manager_report	6
+../Core/Src/fault_manager.c:119:24:fault_manager_clear	6
+../Core/Src/fault_manager.c:156:24:fault_manager_get_record	5
+../Core/Src/fault_manager.c:186:10:fault_manager_get_count	4
+../Core/Src/fault_manager.c:204:9:fault_manager_is_active	4
+../Core/Src/fault_manager.c:222:9:fault_manager_any_active	1
+../Core/Src/fault_manager.c:232:24:fault_manager_get_last_fault	3
+../Core/Src/fault_manager.c:255:24:fault_manager_health_check	2

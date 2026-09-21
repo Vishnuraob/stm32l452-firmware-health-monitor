@@ -1,0 +1,7 @@
+../Core/Src/peripheral_monitor.c:29:29:peripheral_monitor_init	4	static
+../Core/Src/peripheral_monitor.c:66:29:peripheral_monitor_update	8	static
+../Core/Src/peripheral_monitor.c:171:29:peripheral_monitor_health_check	8	static
+../Core/Src/peripheral_monitor.c:185:29:peripheral_monitor_get_info	16	static
+../Core/Src/peripheral_monitor.c:208:9:peripheral_monitor_all_healthy	4	static
+../Core/Src/peripheral_monitor.c:218:9:peripheral_monitor_fault_active	4	static
+../Core/Src/peripheral_monitor.c:228:6:peripheral_monitor_clear_fault	4	static

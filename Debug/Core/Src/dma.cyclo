@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Core/Src/dma.c:27:14:dma_adc_init	5
+../Core/Src/dma.c:166:14:dma_adc_start	1
+../Core/Src/dma.c:181:6:dma_adc_stop	1
+../Core/Src/dma.c:191:14:dma_adc_health_check	9
+../Core/Src/dma.c:268:9:dma_adc_transfer_complete	1
+../Core/Src/dma.c:273:6:dma_adc_clear_transfer_complete	1
+../Core/Src/dma.c:278:6:dma_adc_irq_handler	2

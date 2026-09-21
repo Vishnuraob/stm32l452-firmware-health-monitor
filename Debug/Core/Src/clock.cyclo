@@ -1,0 +1,10 @@
+../Core/Src/clock.c:70:23:clock_enable_hsi	3
+../Core/Src/clock.c:96:23:clock_config_voltage_scaling	2
+../Core/Src/clock.c:122:23:clock_config_flash	2
+../Core/Src/clock.c:146:23:clock_config_bus_prescalers	4
+../Core/Src/clock.c:194:23:clock_config_pll	5
+../Core/Src/clock.c:311:23:clock_switch_to_pll	3
+../Core/Src/clock.c:354:16:clock_init	8
+../Core/Src/clock.c:461:10:clock_get_frequency	1
+../Core/Src/clock.c:493:16:clock_health_check	12
+../Core/Src/clock.c:614:16:clock_get_status	1

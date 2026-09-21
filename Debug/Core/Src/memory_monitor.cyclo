@@ -1,0 +1,13 @@
+../Core/Src/memory_monitor.c:52:10:memory_monitor_get_msp	1
+../Core/Src/memory_monitor.c:64:9:memory_monitor_stack_overflow	2
+../Core/Src/memory_monitor.c:85:25:memory_monitor_init	2
+../Core/Src/memory_monitor.c:114:25:memory_monitor_update	7
+../Core/Src/memory_monitor.c:215:25:memory_monitor_get_info	4
+../Core/Src/memory_monitor.c:309:25:memory_monitor_health_check	6
+../Core/Src/memory_monitor.c:383:10:memory_monitor_get_stack_pointer	1
+../Core/Src/memory_monitor.c:393:10:memory_monitor_get_stack_available	2
+../Core/Src/memory_monitor.c:427:10:memory_monitor_get_ram_size	1
+../Core/Src/memory_monitor.c:437:10:memory_monitor_get_ram_start	1
+../Core/Src/memory_monitor.c:447:10:memory_monitor_get_ram_end	1
+../Core/Src/memory_monitor.c:457:9:memory_monitor_fault_active	1
+../Core/Src/memory_monitor.c:467:6:memory_monitor_clear_fault	1

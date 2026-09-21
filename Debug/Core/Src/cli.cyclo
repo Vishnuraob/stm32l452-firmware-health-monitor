@@ -1,0 +1,16 @@
+../Core/Src/cli.c:38:13:cli_transmit_string	2
+../Core/Src/cli.c:50:13:cli_print_status	2
+../Core/Src/cli.c:69:13:cli_command_status	3
+../Core/Src/cli.c:167:13:cli_command_help	1
+../Core/Src/cli.c:182:13:cli_command_uptime	1
+../Core/Src/cli.c:212:13:cli_command_memory	3
+../Core/Src/cli.c:291:13:cli_command_errors	25
+../Core/Src/cli.c:480:13:cli_command_reset_reason	8
+../Core/Src/cli.c:541:13:cli_command_selftest	7
+../Core/Src/cli.c:591:13:cli_command_get_log	24
+../Core/Src/cli.c:746:13:cli_command_clear_errors	2
+../Core/Src/cli.c:765:13:cli_process_command	11
+../Core/Src/cli.c:819:6:cli_init	1
+../Core/Src/cli.c:835:13:cli_command_version	1
+../Core/Src/cli.c:856:14:cli_receive_char	9
+../Core/Src/cli.c:947:6:cli_process	3

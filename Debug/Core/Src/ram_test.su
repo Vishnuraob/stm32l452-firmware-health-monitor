@@ -1,0 +1,12 @@
+../Core/Src/ram_test.c:34:19:ram_test_init	4	static
+../Core/Src/ram_test.c:53:26:ram_test_pattern_test	24	static
+../Core/Src/ram_test.c:192:26:ram_test_walking_1	32	static
+../Core/Src/ram_test.c:295:26:ram_test_walking_0	32	static
+../Core/Src/ram_test.c:404:26:ram_test_address_bus	40	static
+../Core/Src/ram_test.c:630:19:ram_test_run	24	static
+../Core/Src/ram_test.c:762:19:ram_test_health_check	4	static
+../Core/Src/ram_test.c:784:19:ram_test_get_info	24	static
+../Core/Src/ram_test.c:828:9:ram_test_fault_active	4	static
+../Core/Src/ram_test.c:838:6:ram_test_clear_fault	4	static
+../Core/Src/ram_test.c:846:6:ram_test_inject_fault	4	static
+../Core/Src/ram_test.c:854:19:ram_test_get_fault_info	16	static

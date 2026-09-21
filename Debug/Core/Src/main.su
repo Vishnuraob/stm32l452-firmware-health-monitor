@@ -1,0 +1,4 @@
+../Core/Src/main.c:188:13:fault_manager_update_debug_variables	8	static
+../Core/Src/main.c:243:5:main	56	static,ignoring_inline_asm
+../Core/Src/main.c:1018:13:debug_stack_overflow_test	1016	static
+../Core/Src/main.c:1040:6:Error_Handler	4	static,ignoring_inline_asm
